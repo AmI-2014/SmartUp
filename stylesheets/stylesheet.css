@@ -77,7 +77,7 @@ header {
 
 header h1 {
   letter-spacing: -1px;
-  padding-left: 600px;
+  padding-left: 60px;
   font-size: 50px;
   color: #1576ab;
   line-height: 1;
@@ -88,7 +88,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  padding-left: 600px;
+  padding-left: 60px;
   color: #f84d05;
   font-style: italic;
   line-height: 1.3;
