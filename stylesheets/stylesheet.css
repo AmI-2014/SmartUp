@@ -117,8 +117,8 @@ header h2 {
 }
 
 aside#sidebar {
-  width: 250px;
-  padding-left: 20px;
+  width: 200px;
+  padding-left: 0px;
   min-height: 504px;
   float: right;
   background: #93f5a1 /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
