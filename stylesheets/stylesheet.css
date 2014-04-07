@@ -59,8 +59,12 @@ body {
 a {
   color: #17aa2c;
 }
+a:visited {
+  color:#2268b2;
+}
 a:hover {
-  color: #2268b2;
+  color: #17aa2c;
+  font-style:underline;
 }
 
 header {
