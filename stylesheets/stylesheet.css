@@ -183,8 +183,8 @@ aside .team{
 
 a.members {
   width: 200px;
-  height: 58px;
-  line-height: 1.2;
+  /*height: 58px;
+  line-height: 1.2;*/
   font-size: 23px;
   color: #f84d05;
   text-decoration:underline;
