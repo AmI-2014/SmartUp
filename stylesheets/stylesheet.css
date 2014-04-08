@@ -243,6 +243,14 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
+.footer{
+  font-size: 23px;
+  color: #f84d05;
+  font-style: italic;
+  text-decoration:underline;
+  text-align:center;
+}
+
 
 /* COMMON STYLES */
 
