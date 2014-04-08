@@ -188,13 +188,14 @@ a.members {
   font-size: 23px;
   color: #f84d05;
   text-decoration:underline;
-  padding-left: 48px;
+  /*padding-left: 48px;*/
+  text-align:center;
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
 
 a.members smally{
-  padding-left: 202px;
+  text-align:center;
   display: block;
   font-size: 11px;
 }
