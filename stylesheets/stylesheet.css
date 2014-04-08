@@ -194,6 +194,7 @@ a.members {
 }
 
 a.members small{
+  padding-left: 52px;
   display: block;
   font-size: 11px;
 }
