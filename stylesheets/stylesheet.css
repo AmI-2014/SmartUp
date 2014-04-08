@@ -158,6 +158,15 @@ header a.button {
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
+
+aside a.team{
+  width: 200px;
+  padding-left:0px;
+  display: block;
+  background: transparent url(http://imageshack.com/a/img513/9456/9c4e.jpg) 0 0 no-repeat;
+  margin-bottom: 40px;
+  font-size:21px;
+}
 aside a.button {
   width: 138px;
   padding-left: 64px;
