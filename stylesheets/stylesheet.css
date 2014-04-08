@@ -249,6 +249,8 @@ ul, ol, dl {
   font-style: italic;
   text-decoration:underline;
   text-align:center;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  background:transparent;
 }
 
 
