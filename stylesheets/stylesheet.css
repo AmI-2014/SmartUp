@@ -173,6 +173,7 @@ header a.button {
 
 aside .team{
   width: 200px;
+  height:200px;
   padding-left:0px;
   display: block;
   background: transparent url(http://imageshack.com/a/img513/1599/kczb.jpg) 0 0 no-repeat;
