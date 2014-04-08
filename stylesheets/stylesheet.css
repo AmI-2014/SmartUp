@@ -180,6 +180,19 @@ aside .team{
   margin-bottom: 40px;
   font-size:21px;
 }
+
+a.team {
+  width: 134px;
+  height: 58px;
+  line-height: 1.2;
+  font-size: 23px;
+  color: #f84d05;
+  padding-left: 68px;
+  padding-top: 22px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+}
+
+
 aside a.button {
   width: 138px;
   padding-left: 64px;
