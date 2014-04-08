@@ -192,6 +192,11 @@ a.members {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
 
+a.members small{
+  display: block;
+  font-size: 11px;
+}
+
 
 aside a.button {
   width: 138px;
