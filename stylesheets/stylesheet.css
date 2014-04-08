@@ -159,7 +159,7 @@ header a.button {
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 
-a.team {
+.team {
   width: 134px;
   height: 58px;
   line-height: 1.2;
@@ -169,10 +169,7 @@ a.team {
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
-a.team small {
-  display: block;
-  font-size: 11px;
-}
+
 
 aside a.team{
   width: 200px;
