@@ -155,7 +155,6 @@ a.button small {
 }
 header a.button {
   position: right; /*absolute*/
-  padding-right: 100px;
   right: -100px;
   top: 0;
   color: #2b77d2;
