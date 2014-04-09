@@ -70,7 +70,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 45px;
-  margin-left:5px;
+  padding-left:10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #7ec0ce url(../images/Icon.png) 0 0 no-repeat;
   border-bottom: solid 1px #0f0fdf;
