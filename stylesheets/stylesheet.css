@@ -123,7 +123,7 @@ aside#sidebar {
   padding-right: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
-  min-height: 350px; /*504*/
+  min-height: 504px; 
   float: right;
   background: #7ec0ce /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
@@ -177,7 +177,7 @@ aside .team{
   height:200px;
   padding-left:0px;
   display: block;
-  background: #7ec0ce url(../images/Aside.png) 0 0 no-repeat;
+  background: #7ec0ce url(../images/Aside2.png) 0 0 no-repeat;
   /*padding-bottom: 100px;*/
   margin-bottom: 20px;
   font-size:21px;
