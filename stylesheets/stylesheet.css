@@ -327,7 +327,7 @@ form {
  
 #main-content h3:before {
   content: "///";
-  color: #93f5a1;
+  color: #0f0f0f;
   padding-right: 0.3em;
   margin-left: -2em;
 }
