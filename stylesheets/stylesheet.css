@@ -57,13 +57,13 @@ body {
 }
 
 a {
-  color: #17aa2c;
+  color: #2268b2;
 }
 a:visited {
-  color:#2268b2;
+  color:#9600d5;
 }
 a:hover {
-  color: #17aa2c;
+  color: #2268b2;
   text-decoration:underline;
 }
 
