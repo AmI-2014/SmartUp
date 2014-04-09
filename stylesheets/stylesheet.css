@@ -154,7 +154,8 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  position: relative; /*absolute*/
+  position: absolute; 
+  padding-right:100px;
   right: -100px;
   top: 0;
   color: #2b77d2;
