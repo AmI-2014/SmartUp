@@ -154,11 +154,12 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  position: absolute;
+  position: right; /*absolute*/
+  padding-right: 100px;
   right: -100px;
   top: 0;
-  color: #0f0fdf;
-  background: transparent url(../images/github-button-blue.png) 0 0 no-repeat;
+  color: #2b77d2;
+  background: transparent url(../images/github-button-azz.png) 0 0 no-repeat;
 }
 
 .team {
