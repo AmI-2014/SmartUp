@@ -71,7 +71,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #93f5a1 url(../images/Banner.jpg) 0 0 repeat-x;
+  background: #fff url(../images/Banner.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -124,7 +124,7 @@ aside#sidebar {
   padding-bottom: 5px;
   min-height: 504px;
   float: right;
-  background: #93f5a1 /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
+  background: #fff /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
   line-height: 1.3;
 }
