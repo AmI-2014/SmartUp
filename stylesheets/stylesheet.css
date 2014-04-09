@@ -71,7 +71,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #93f5a1 url(http://imageshack.com/a/img513/7554/cjmy.jpg) 0 0 repeat-x;
+  background: #93f5a1 url(../images/banner.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -176,7 +176,7 @@ aside .team{
   height:200px;
   padding-left:0px;
   display: block;
-  background: transparent url(http://imageshack.com/a/img513/1599/kczb.jpg) 0 0 no-repeat;
+  background: transparent url(../images/aside.jpg) 0 0 no-repeat;
   /*padding-bottom: 100px;*/
   margin-bottom: 40px;
   font-size:21px;
