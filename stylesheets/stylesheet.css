@@ -165,7 +165,7 @@ header a.button {
   height: 58px;
   line-height: 1.2;
   font-size: 23px;
-  color: #f84d05;
+  color: #fff;
   padding-left: 68px;
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
@@ -188,7 +188,7 @@ aside .team{
   /*height: 58px;
   line-height: 1.2;*/
   font-size: 23px;
-  color: #f84d05;
+  color: #fff;
   text-decoration:underline;
   /*padding-left:46px;*/
   text-align:center;
@@ -197,7 +197,7 @@ aside .team{
 
 
 .team smally{
-  color: #f84d05;
+  color: #fff;
   text-align:center;
   display: block;
   font-size: 18px;
