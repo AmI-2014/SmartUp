@@ -57,13 +57,13 @@ body {
 }
 
 a {
-  color: #2268b2;
+  color: #0f0fdf;
 }
 a:visited {
   color:#9600d5;
 }
 a:hover {
-  color: #2268b2;
+  color: #0f0fdf;
   text-decoration:underline;
 }
 
@@ -328,7 +328,7 @@ form {
  
 #main-content h3:before {
   content: "///";
-  color: #0f0fdf;
+  color: #7ec0ce;
   padding-right: 0.3em;
   margin-left: -2em;
 }
