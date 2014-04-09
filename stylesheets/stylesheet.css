@@ -50,7 +50,7 @@ table {
 body {
   font-size: 15px;
   line-height: 1.5; 
-  background: #e3fce7 url(../images/body-bg.jpg) 0 0 repeat;
+  background: #fff url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #666;
@@ -176,7 +176,7 @@ aside .team{
   height:200px;
   padding-left:0px;
   display: block;
-  background: transparent url(../images/aside.jpg) 0 0 no-repeat;
+  background: #fff url(../images/aside.jpg) 0 0 no-repeat;
   /*padding-bottom: 100px;*/
   margin-bottom: 40px;
   font-size:21px;
