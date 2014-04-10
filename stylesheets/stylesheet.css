@@ -73,7 +73,7 @@ header {
   padding-left:10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;
-  border-bottom: solid 1px #2d3091;
+  border-bottom: double 1px #2d3091;
 }
 
 header h1 {
