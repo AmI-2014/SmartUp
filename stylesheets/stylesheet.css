@@ -99,7 +99,7 @@ header h2 {
 .inner { 
   position: relative; 
   left: -100px;
-  width: 940px;
+  width: 1090px; /*940*/
   margin: 0 auto;
 }
 
