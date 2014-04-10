@@ -99,9 +99,10 @@ header h2 {
 .inner { 
   position: relative; 
   border: solid;
+  margin-left:50px;
   left: -50px;
-  width: 1050px; /*940*/
-  margin: 0 auto;
+  width: 1000px; /*940*/
+  /*margin: 0 auto;*/
 }
 
 #content-wrapper {
