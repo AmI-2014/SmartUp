@@ -98,7 +98,7 @@ header h2 {
 
 .inner { 
   position: relative; 
-  border: solid 1px;
+  border: none;
   /*left: -100px;*/
   width: 1000px; /*940*/
   margin: 0 auto;
