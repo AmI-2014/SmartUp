@@ -72,7 +72,7 @@ header {
   padding-bottom: 45px;
   padding-left:10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #7ec0ce url(../images/Icon.png) 0 0 no-repeat;
+  background: #D3D3D3 url(../images/Icon.png) 0 0 no-repeat;
   border-bottom: solid 1px #0f0fdf;
 }
 
@@ -180,7 +180,7 @@ aside .team{
   height:200px;
   padding-left:0px;
   display: block;
-  background: #7ec0ce url(../images/Aside2.png) 0 0 no-repeat;
+  background: #D3D3D3 url(../images/Aside2.png) 0 0 no-repeat;
   /*padding-bottom: 100px;*/
   margin-bottom: 20px;
   font-size:21px;
