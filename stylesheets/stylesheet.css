@@ -146,7 +146,7 @@ aside#sidebar {
   padding-bottom: 5px;
   min-height: 350px; 
   float: right;
-  background: #E6E6FA /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
+  background: linear-gradient(#E6E6FA, #fff);/*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
   line-height: 1.3;
 }
