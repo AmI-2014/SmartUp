@@ -99,7 +99,7 @@ header h2 {
 .inner { 
   position: relative; 
   border: none;
-  margin-left:100px;
+  margin-left:125px;
   width: 1050px; /*940*/
   /*margin: 0 auto;*/
 }
@@ -139,14 +139,14 @@ aside#sidebar {
   width: 200px;
   margin-top:100px;
   margin-left:50px;
-  border:solid 1px #E6E6FA;
+  border:solid none /*1px #E6E6FA*/;
   padding-left: 5px;
   padding-right: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
-  min-height: 404px; 
+  min-height: 350px; 
   float: right;
-  background: #transparent /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
+  background: #E6E6FA /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
   line-height: 1.3;
 }
