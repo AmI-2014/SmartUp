@@ -80,9 +80,8 @@ header h1 {
   letter-spacing: -1px;
   padding-left: 55px;
   font-size: 50px;
-  color: #2d3091; /*0f0fdf*/
+  color: #2d3091;
   line-height: 1;
-  /*text-decoration:underline;*/
   margin-bottom: 0.2em;
   width: 540px;
 }
@@ -97,9 +96,8 @@ header h2 {
   letter-spacing: 0;
 }
 
-.inner {
-  position:left;
-  /*position: relative;*/
+.inner { 
+  position:absolute; /*relative*/
   width: 940px;
   margin: 0 auto;
 }
