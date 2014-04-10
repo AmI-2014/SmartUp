@@ -154,14 +154,7 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
-  position: absolute; 
-  padding-right:110px;
-  right: -100px;
-  top: 0;
-  color: #2b77d2;
-  background: transparent url(../images/github-button-azz.png) 0 0 no-repeat;
-}
+
 
 .team {
   width: 134px;
@@ -212,6 +205,15 @@ aside a.button {
   padding-left: 64px;
   display: block;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  margin-bottom: 20px;
+  font-size: 21px;
+}
+
+aside a.buttongh {
+  width: 138px;
+  padding-left: 64px;
+  display: block;
+  background: transparent url(../images/github-button-blue.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }
