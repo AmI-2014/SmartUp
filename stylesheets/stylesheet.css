@@ -100,7 +100,6 @@ header h2 {
   position: relative; 
   border: solid;
   margin-left:50px;
-  left: -50px;
   width: 1000px; /*940*/
   /*margin: 0 auto;*/
 }
