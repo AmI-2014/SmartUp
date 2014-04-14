@@ -51,7 +51,8 @@ body {
   font-size: 15px;
   line-height: 1.5; 
   background: #fff url(../images/body-bg.jpg) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  /*font-family: 'Helvetica Neue', Helvetica, Arial, serif;*/
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-weight: 400;
   color: #666;
 }
