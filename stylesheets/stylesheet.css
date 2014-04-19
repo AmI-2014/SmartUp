@@ -78,10 +78,6 @@ header {
   border-bottom: solid 1px #2d3091;
 }
 
-header icon{
-  background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;
-}
-
 header h1 {
   text-align:center;
   margin-left:auto;
