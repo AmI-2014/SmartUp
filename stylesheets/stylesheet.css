@@ -107,9 +107,8 @@ header h2 {
 .headerwrapping{
   margin-left:auto;
   margin-right:auto;
-  width: 1206px;
+  width: 1200px;
   min-height:160px;
-  border:1px solid;
 }
 
 .innerheader{
@@ -117,7 +116,6 @@ header h2 {
   width: 1000px;
   min-height:160px;
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
-  border:1px solid;
 }
 
 headerbuttons{
@@ -125,7 +123,6 @@ headerbuttons{
   width:180px;
   margin-top:10px;
   background: transparent;
-  border:1px solid;
 }
 
 .inner { 
