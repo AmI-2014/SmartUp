@@ -109,11 +109,14 @@ header h2 {
   margin-right:auto;
   width: 1200px;
   min-height:160px;
+  border:1px solid #ff0000;
 }
 
 .innerheader{
   margin-left:0px;
   width: 1097px;
+  
+  border:1px solid #fff000;
   /*min-height:160px;*/
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
