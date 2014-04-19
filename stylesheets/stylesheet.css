@@ -107,13 +107,13 @@ header h2 {
 .headerwrapping{
   margin-left:auto;
   margin-right:auto;
-  width: 1000px;
+  width: 1100px;
   min-height:160px;
 }
 
 .innerheader{
   float:left;
-  width: 800px;
+  width: 900px;
   min-height:160px;
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
