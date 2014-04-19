@@ -110,22 +110,27 @@ header h2 {
   border: solid 1px #2d3091;
 }
 
-.innerheader{
+.headerwrapping{
   margin-left:auto;
   margin-right:auto;
   border: 1px solid #ff0000;
   width: 1200px;
   min-height:160px;
+}
+
+.innerheader{
+  margin-left:auto;
+  margin-right:auto;
+  border: 1px solid #ff0000;
+  width: 1099px;
+  min-height:160px;
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
 
 headerbuttons{
-  position:relative;
-  width:100px;
-  left:89%;
-  top:0%;
-  margin-left:22px;
-  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+  width:101px;
   background: transparent;
   border: 1px solid #0ddd0d;
 }
