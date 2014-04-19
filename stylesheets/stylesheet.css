@@ -120,10 +120,10 @@ header h2 {
 }
 
 headerbuttons{
-  position:absolute;
+  position:relative;
   min-width:101px;
-  /*margin-left:auto;*/
   right:0px;
+  padding-right:10px;
   background: transparent;
   border: 1px solid #0ddd0d;
 }
