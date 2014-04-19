@@ -126,8 +126,8 @@ header h2 {
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
 
-headerbuttons{
-  margin-left:0px;
+header buttons{
+  margin-right:0px;
   width:50px;
   background: transparent;
   border: 1px solid #0ddd0d;
