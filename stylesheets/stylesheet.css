@@ -121,8 +121,9 @@ header h2 {
 
 headerbuttons{
   position:relative;
-  min-width:101px;
-  left:100%;
+  width:100px;
+  left:89%;
+  margin-left:22px;
   padding-right:10px;
   background: transparent;
   border: 1px solid #0ddd0d;
