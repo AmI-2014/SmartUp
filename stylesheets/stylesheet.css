@@ -110,6 +110,14 @@ header h2 {
   border: solid 1px #2d3091;
 }
 
+.innerheader{
+  margin-left:auto;
+  margin-right:auto;
+  border: 1px solid #ff0000;
+  width: 1210px;
+  background: transparent url(../images/Icon.png) 0 0 no-repeat;
+}
+
 .inner { 
   margin-left:auto;
   margin-right:auto;
