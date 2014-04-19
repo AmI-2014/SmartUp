@@ -109,14 +109,12 @@ header h2 {
   margin-right:auto;
   width: 1200px;
   min-height:160px;
-  border:1px solid #ff0000;
 }
 
 .innerheader{
   float:left;
-  width: 1094px;
-  border:1px solid #fff000;
-  /*min-height:160px;*/
+  width: 1099px;
+  min-height:160px;
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
 
@@ -124,7 +122,6 @@ headerbuttons{
   float:right;
   width:101px;
   background: transparent;
-  border: 1px solid #0ddd0d;
 }
 
 .inner { 
