@@ -69,7 +69,7 @@ a:hover {
 }
 
 header {
-  height:125px;
+  min-height:125px;
   padding-top: 20px;
   padding-bottom: 45px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
@@ -113,8 +113,8 @@ header h2 {
 
 .innerheader{
   margin-left:0px;
-  width: 1099px;
-  min-height:160px;
+  width: 1097px;
+  /*min-height:160px;*/
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
 }
 
