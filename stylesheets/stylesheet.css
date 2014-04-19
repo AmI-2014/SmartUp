@@ -104,12 +104,13 @@ header h2 {
   letter-spacing: 0;
 }
 
-headerwrapping{
+header wrapping{
   margin-left:auto;
   margin-right:auto;
   border: 1px solid #ff0000;
   width: 1200px;
   min-height:160px;
+  background:transparent;
 }
 
 .innerheader{
