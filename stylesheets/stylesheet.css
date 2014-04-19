@@ -72,10 +72,14 @@ header {
   height:125px;
   padding-top: 20px;
   padding-bottom: 45px;
-  padding-left:60px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;
+  background:linear-gradient(#fff, #E6E6FA);
+  /*background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;*/
   border-bottom: solid 1px #2d3091;
+}
+
+header icon{
+  background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;
 }
 
 header h1 {
