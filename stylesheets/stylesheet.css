@@ -113,9 +113,8 @@ header h2 {
 }
 
 .innerheader{
-  margin-left:0px;
+  float:left;
   width: 1094px;
-  
   border:1px solid #fff000;
   /*min-height:160px;*/
   background: transparent url(../images/Icon.png) 0 0 no-repeat;
