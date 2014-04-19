@@ -119,8 +119,7 @@ header h2 {
 }
 
 .innerheader{
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0px;
   border: 1px solid #ff0000;
   width: 1099px;
   min-height:160px;
