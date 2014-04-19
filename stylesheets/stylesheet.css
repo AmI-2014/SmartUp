@@ -78,8 +78,10 @@ header {
 }
 
 header h1 {
+  margin-left:auto;
+  margin-right:auto;
   letter-spacing: -1px;
-  padding-left: 155px;
+  /*padding-left: 155px;*/
   font-size: 50px;
   color: #2d3091;
   line-height: 1;
@@ -89,8 +91,10 @@ header h1 {
 }
 
 header h2 {
+  margin-left:auto;
+  margin-right:auto;
   font-size: 26px;
-  padding-left: 245px;
+  /*padding-left: 245px;*/
   color: #6495ED;
   font-style: italic;
   line-height: 1.3;
