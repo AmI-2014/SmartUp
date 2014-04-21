@@ -150,6 +150,7 @@ menubar{
   font-weight: bold;
   color: #110fdf;
   margin-right:10px;
+  margin-top:-50%;
 } 
  
 #menu-content menuvoice:before {
