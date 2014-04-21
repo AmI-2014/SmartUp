@@ -149,6 +149,7 @@ menubar{
 }
 
 closingbar{
+  display:block;
   position:absolute;
   margin:auto;
   margin-top:5px;
