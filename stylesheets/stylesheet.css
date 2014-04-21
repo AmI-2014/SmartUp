@@ -135,11 +135,11 @@ headerbuttons{
 }
 
 menubar{
-  position:absolute;
+  position:relative;
   margin-left:auto;
   margin-right:auto;
-  margin-top:0px;
-  height:20px;
+  margin-top:15px;
+  height:30px;
   width:690px;
   background:#a5a5ba;
   color: #2d3091;
