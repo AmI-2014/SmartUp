@@ -149,10 +149,12 @@ menubar{
   font-size: 18px;
   font-weight: bold;
   color: #110fdf;
+  margin-right:5px;
 } 
  
 #menu-content menuvoice:before {
-  background:transparent url(../images/divider.png) no-repeat;
+  background:transparent url(../images/divider.png);
+  margin-left:5px;
 }
 
 closingbar{
