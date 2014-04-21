@@ -153,7 +153,7 @@ menubar{
 } 
  
 #menu-content menuvoice:before {
-  background:transparent url(../images/divider.png);
+  content: url(../images/divider.png);
   margin-left:5px;
 }
 
