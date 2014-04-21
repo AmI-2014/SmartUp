@@ -141,11 +141,21 @@ menubar{
   height:30px;
   width:690px;
   background:#a5a5ba;
-  color: #110fdf;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size:18px;
-  font-weight:bold;
   text-align:center;
+}
+
+#menu-content menuvoice {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 8px;
+  color: #110fdf;
+  margin-left: 0em;
+} 
+ 
+#menu-content menuvoice:before {
+  background:transparent url(../images/divider.png) no-repeat;
 }
 
 closingbar{
