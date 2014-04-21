@@ -1,1 +1,121 @@
-bb
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <LINK REL="SHORTCUT ICON" HREF= "https://raw.githubusercontent.com/AmI-2014/SmartUp/gh-pages/images/favicon.ico?token=6977612__eyJzY29wZSI6IlJhd0Jsb2I6QW1JLTIwMTQvU21hcnRVcC9naC1wYWdlcy9pbWFnZXMvZmF2aWNvbi5pY28iLCJleHBpcmVzIjoxMzk3NjcwMzg1fQ%3D%3D--6af7fe4485f8ea3343151638f8bfe865f0ed56f2">
+    <title>SmartUp! -About-</title>
+  </head>
+
+  <body>
+    <header>
+     <div class="headerwrapping">
+       <div class="innerheader">
+        <h1>Smart Butler Project</h1>
+        <h2>Smart Up with SmartUp!</h2>
+       </div>
+       <headerbuttons>
+        <a href="https://github.com/AmI-2014/SmartUp"><img src="https://raw.githubusercontent.com/AmI-2014/SmartUp/gh-pages/images/github-button-small.png?token=6977612__eyJzY29wZSI6IlJhd0Jsb2I6QW1JLTIwMTQvU21hcnRVcC9naC1wYWdlcy9pbWFnZXMvZ2l0aHViLWJ1dHRvbi1zbWFsbC5wbmciLCJleHBpcmVzIjoxMzk4NTQ1MzYyfQ%3D%3D--f1f0fa428dcf64906cb12624f64752e8b0319eeb" alt="View project on GitHub" /></a> <br>
+        <a href="https://github.com/AmI-2014/SmartUp/zipball/master"><img src="https://raw.githubusercontent.com/AmI-2014/SmartUp/gh-pages/images/download-zip.png?token=6977612__eyJzY29wZSI6IlJhd0Jsb2I6QW1JLTIwMTQvU21hcnRVcC9naC1wYWdlcy9pbWFnZXMvZG93bmxvYWQtemlwLnBuZyIsImV4cGlyZXMiOjEzOTg1NDUzNjF9--704440b7dd4e467b26f54aa872f57948e815b14a" alt="Download .zip file" /></a> <br>
+        <a href="https://github.com/AmI-2014/SmartUp/tarball/master"><img src="https://raw.githubusercontent.com/AmI-2014/SmartUp/gh-pages/images/download-targz.png?token=6977612__eyJzY29wZSI6IlJhd0Jsb2I6QW1JLTIwMTQvU21hcnRVcC9naC1wYWdlcy9pbWFnZXMvZG93bmxvYWQtdGFyZ3oucG5nIiwiZXhwaXJlcyI6MTM5ODU0NTM2NH0%3D--49548cfe1ecb6d9859a1c58c5c1769e646aa859a" alt="Download .tar.gz file" /></a> <br>
+       </headerbuttons>
+     </div>
+     <div class="inner">
+      <menubar>
+       <section id="menu-content">
+        <menuvoice><a href="../smartupabout">Smart Butler</a></menuvoice>
+        <menuvoice><a href="../documentation.html">Documentation</a></menuvoice>
+        <menuvoice><a href="../team">Team</a></menuvoice>
+        <menuvoice><a href=""></a></menuvoice>
+       </section>
+      </menubar>
+     </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h3><a name="" class="anchor" href=""><span class="octicon octicon-link"></span></a>Smart Butler</h3>
+
+            <p>The Smart Butler project aims to create a system able to substitute a human butler in a domestic environment.</p>
+
+
+          <h3><a name="" class="anchor" href=""><span class="octicon octicon-link"></span></a>Why to choose it</h3>
+    
+            <p>The Smart Butler is..smart! It will be everywhere, ready to perform any task in the shortest time, but it will show up only when needed.
+              <br>
+              You will have an extra hand to manage your daily routine plus it will help you in many little things, relieving you from boring tasks and letting you enjoy your life with more energy!
+           </p>
+ 
+          <h3><a name="" class="anchor" href=""><span class="octicon octicon-link"></span></a>How does it work</h3>
+
+            <p>Based on vocal commands and users’ agenda, the Smart Butler will be able to recognize the activities that the user is performing or is going to thanks to a transparent network of sensors.</p>
+
+          <h3><a name="" class="anchor" href=""><span class="octicon octicon-link"></span></a>What does it do</h3>
+
+            <p>
+            <ul type=”square”>
+            <li>It will set properly the environment so that you can carry out your task in a comfortable way. You will never feel too hot or too cold neither the need to regulate ligths
+            <li>Nobody will bother you with Skype calls or chat messages in a crucial moment because the Smart Butler will set automatically all your social’s status on ‘busy’ mode
+            <li>You will receive record of every person that called you or come to see you while you were busy and everyone will know when you will be avaiable again to have a nice chat with them!
+            <li>You won’t never stain your recipes again while cooking because Smart Butler will read them out loud for you!
+            <li>It will help you to remember everything that you planned for the day.
+            </ul>
+            </p>
+ 
+          <h3><a name="" class="anchor" href=""><span class="octicon octicon-link"></span></a> What we are going to implement</h3> 
+
+          <p>Because we are very tight on time we are going to develop just two “functionalities” to show you the philosophy of this system.
+            <br>
+            The first one involves the kitchen environment. Saying some simple keywords the Smart Butler will guide you reading recipes while you are cooking (with the possibility to stop and restart it when you will be ready), it will remember you when it’s time to turn off the oven or the burners and it will play some music while you’re eating.    
+            <br>
+            The other functionality concerns the training activity. When you will start to run on the tapis-roulant or to  work out with you’re athletic equipment the system will adjust the temperature in the room so that you won’t melt down. You will have the possibility to choose between listening to some music or followimg the lesson of a personal trainer even with a video. 
+            <br>
+            In both cases nobody will distract you from what you are doing because on your request the system will set all your social status on busy-mode. If someone will try to get in touch with you the system will remember it and will report it when you will be done with your stuff.
+            <br><br>
+            
+            <div class="footer">Make your life easy<br>You can. With our Smart Butler!</div>
+          </p>
+ 
+
+        </section>
+
+
+        <!-- <aside id="sidebar"> 
+       
+          <a href="https://github.com/AmI-2014/SmartUp" class="buttongh"><small>View project on</small>GitHub</a>
+          <a href="https://github.com/AmI-2014/SmartUp/zipball/master" class="button"><small>Download</small>.zip file</a>
+          <a href="https://github.com/AmI-2014/SmartUp/tarball/master" class="button"><small>Download</small>.tar.gz file</a>
+          
+          <div class="team">
+          <div><smally><br>Team</smally></div>
+            <div class="members"><a href="http://twitter.com/BeatriceGaia"><font color="#6495ED">Beatrice</font></a></div>
+            <div class="members"><a href="http://www.facebook.com/roberta.pascale.3"><font color="#6495ED">Roberta</font></a></div>
+            <div class="members"><a href="http://www.facebook.com/francesca.ronchini.1"><font color="#6495ED">Francesca</font></a></div>
+          </div>
+          
+          <p class="repo-owner"><a href="https://github.com/AmI-2014/SmartUp"></a> is maintained by <a href="https://github.com/AmI-2014/SmartUp">SmartUp! Team</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a></p>
+          
+        </aside> !-->
+        
+      </div>
+      <div class="inner">
+      <closingbar>
+      </closingbar>
+     </div>
+    </div> 
+
+  
+  </body>
+</html>
