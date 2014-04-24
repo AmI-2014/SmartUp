@@ -51,7 +51,6 @@ body {
   font-size: 16px;
   line-height: 1.5; 
   background: #fff url(../images/body-bg.jpg) 0 0 repeat;
-  /*font-family: 'Helvetica Neue', Helvetica, Arial, serif;*/
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-weight: 400;
   color: #666;
@@ -73,7 +72,6 @@ header {
   padding-top: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: linear-gradient(#fff, #E6E6FA);
-  /*background: #E6E6FA url(../images/Icon.png) 0 0 no-repeat;*/
   border-bottom: solid 1px #2d3091;
 }
 
@@ -96,7 +94,6 @@ header h2 {
   margin-right:auto;
   padding-left: 200px;
   font-size: 26px;
-  /*padding-left: 245px;*/
   color: #6495ED;
   font-style: italic;
   line-height: 1.3;
@@ -129,9 +126,6 @@ headerbuttons{
   margin-left:auto;
   margin-right:auto;
   width: 690px;
-  /*position: relative; 
-  margin-left:125px;
-  margin: 0 auto;*/
 }
 
 menubar{
@@ -159,23 +153,6 @@ menubar{
   margin-right:5px;
 }
 
-closingbar{
-  display:block;
-  position:absolute;
-  margin:auto;
-  margin-top:5px;
-  height:30px;
-  width:690px;
-  background:#cdcdda;
-  color: #110fdf;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  text-align:center;
-  vertical-align:50%;
-  font-size: 12px;
-  line-height: 1.3;
-  font-weight:normal;
-}
-
 #content-wrapper {
   border-top: solid 1px #fff;
   padding-top: 30px;
@@ -191,21 +168,6 @@ closingbar{
   max-width: 100%;
 }
 
-
-aside#sidebarteam {
-  width: 200px;
-  float: none;
-  margin:auto;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  min-height: 200px; 
-  background: transparent /*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
-  font-size: 12px;
-  line-height: 1.3;
-}
-
 aside#sidebar {
   width: 200px;
   float: none;
@@ -218,13 +180,6 @@ aside#sidebar {
   background: linear-gradient(#fff, #E6E6FA);/*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
   line-height: 1.3;
-}
-
-aside#sidebar p.repo-owner,
-aside#sidebar p.repo-owner a,
-aside#sidebarteam p.repo-owner,
-aside#sidebarteam p.repo-owner a{
-  font-weight: bold;
 }
 
 #downloads {
@@ -278,6 +233,52 @@ aside .team{
   text-align:center;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
+
+closingbar{
+  display:block;
+  position:absolute;
+  margin:auto;
+  margin-top:5px;
+  height:30px;
+  width:690px;
+  background:#cdcdda;
+}
+
+closingbar .credits{
+  color: #110fdf;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  text-align:center;
+  vertical-align:50%;
+  font-size: 12px;
+  line-height: 15px; /*1.3;*/
+  font-weight:normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 aside a.button {
   width: 138px;
