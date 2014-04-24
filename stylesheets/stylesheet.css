@@ -170,7 +170,7 @@ closingbar{
   color: #110fdf;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   text-align:center;
-  vertical-align:middle;
+  vertical-align:50%;
   font-size: 12px;
   line-height: 1.3;
   font-weight:normal;
