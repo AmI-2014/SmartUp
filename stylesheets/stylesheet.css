@@ -250,7 +250,7 @@ closingbar .credits{
   text-align:center;
   vertical-align:50%;
   font-size: 12px;
-  line-height: 15px; /*1.3;*/
+  line-height: 10px; /*1.3;*/
   font-weight:normal;
 }
 
