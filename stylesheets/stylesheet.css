@@ -213,7 +213,7 @@ aside#sidebar {
   padding-left: 5px;
   padding-right: 5px;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
   height: 200px; 
   background: linear-gradient(#fff, #E6E6FA);/*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
