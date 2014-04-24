@@ -169,9 +169,8 @@ closingbar{
   background:#cdcdda;
   color: #110fdf;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size:18px;
-  font-weight:bold;
   text-align:center;
+  vertical-align:middle;
   font-size: 12px;
   line-height: 1.3;
   font-weight:normal;
@@ -215,7 +214,7 @@ aside#sidebar {
   padding-right: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
-  min-height: 200px; 
+  height: 200px; 
   background: linear-gradient(#fff, #E6E6FA);/*transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
   font-size: 12px;
   line-height: 1.3;
