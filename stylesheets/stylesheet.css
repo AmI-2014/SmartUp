@@ -193,7 +193,7 @@ menubar{
 }
 
 #colorback{
-  background:#E6E6FA;
+  background: url("images/sidebar-bg.jpg") repeat-y;
 }
 
 aside#sidebar {
