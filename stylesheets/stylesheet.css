@@ -193,7 +193,7 @@ menubar{
 }
 
 #colorback{
-  background: linear-gradient(#E6E6FA, #fff);
+  background: url(images/border.png) repeat-y;
 }
 
 aside#sidebar {
