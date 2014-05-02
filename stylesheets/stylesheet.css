@@ -120,7 +120,7 @@ headerbuttons{
   float:right;
   width:180px;
   margin-top:10px;
-  padding-left:20px;
+  padding-right:-5px;
   background: transparent;
 }
 
