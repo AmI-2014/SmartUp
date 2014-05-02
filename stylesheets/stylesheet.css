@@ -193,7 +193,7 @@ menubar{
 }
 
 #colorback{
-  background: url(images/border.png);
+  background: transparent url(images/border.png) 0 0 no-repeat;;
 }
 
 aside#sidebar {
