@@ -402,7 +402,7 @@ form {
   margin-left: -0.9em;
 }
 
-#main-content, #button-content h2 {
+#main-content, #documentation-content h2 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size:16;
   font-weight: bold;
@@ -411,7 +411,7 @@ form {
   color: #474747;
   margin-left: 0em;
 } 
-#main-content, #button-content h2:before {
+#main-content, #documentation-content h2:before {
   content: "//";
   color: #6495ED;
   padding-right: 0.3em;
