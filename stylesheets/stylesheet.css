@@ -393,16 +393,18 @@ form {
 
 #main-content h2 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 22px;
+  font-size:16;
   font-weight: bold;
-  margin-bottom: 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   color: #474747;
+  margin-left: 0em;
 } 
 #main-content h2:before {
   content: "//";
-  color: #9ddcff;
+  color: #6495ED;
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: 0em;
 }
 
 #main-content h3 {
