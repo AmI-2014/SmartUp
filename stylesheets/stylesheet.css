@@ -187,10 +187,6 @@ menubar{
   font-weight: bold;
 }
 
-#documentation-content slash {
-  content: "/";
-  color: #474747;
-}
 
 #main-content img {
   max-width: 100%;
@@ -421,7 +417,7 @@ form {
   margin-left: -0.9em;
 }
 
-#main-content, #documentation-content h2 {
+#main-content h2 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size:16;
   font-weight: bold;
@@ -430,7 +426,25 @@ form {
   color: #474747;
   margin-left: 0em;
 } 
-#main-content, #documentation-content h2:before {
+
+#documentation-content h2 {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size:16;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #474747;
+  margin-left: 0em;
+} 
+
+#main-content h2:before {
+  content: "//";
+  color: #6495ED;
+  padding-right: 0.3em;
+  margin-left: 0em;
+}
+
+#documentation-content h2:before {
   content: "//";
   color: #6495ED;
   padding-right: 0.3em;
