@@ -257,8 +257,7 @@ closingbar .credits{
 }
 
 up{
-  position:absolute;
-  margin-right:0px;
+  float:right;
 }
 
 
