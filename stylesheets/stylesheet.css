@@ -173,6 +173,25 @@ menubar{
   color:#666;
 }
 
+#documentation-content a{
+  color:#666;
+}
+
+#documentation-content a:hover{
+  color:#666;
+  text-decoration:none;
+}
+
+#documentation-content strong{
+  color:#666;
+  font-weight: bold;
+}
+
+#documentation-content slash {
+  content: "/";
+  color: #474747;
+}
+
 #main-content img {
   max-width: 100%;
 }
