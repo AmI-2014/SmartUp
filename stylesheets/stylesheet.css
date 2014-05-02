@@ -170,6 +170,10 @@ menubar{
   max-width: 100%;
 }
 
+#colorback{
+  background:#E6E6FA;
+}
+
 aside#sidebar {
   width: 200px;
   float: none;
