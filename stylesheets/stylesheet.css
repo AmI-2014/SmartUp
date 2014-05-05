@@ -288,6 +288,7 @@ closingbar .credits{
   font-size: 12px;
   line-height: 10px; /*1.3;*/
   font-weight:normal;
+  border-left:-155px;
 }
 
 up{
