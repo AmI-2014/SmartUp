@@ -56,11 +56,22 @@
                 <ul type="square">
                   <li>Vocal command functionality: performs the “speech to text” and handles interactions with microphone and speaker</li>
                   <li>Recipe functionality: accessing the BigOven’s server through its API to fetch recipes to read</li>
-                  <li></li> 
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                  <li></li>
+                  <li>Music functionality: playing tracks or playlist filtered through the music web server Spotify</li> 
+                  <li>Alarm functionality: starting countdowns and alerting the user when time is up</li>
+                  <li>Busy-mode functionality: the system sets busy status on social networks</li>
+                  <li>The system collects all the notifications from social networks (Facebook, Twitter) or mailboxes (Gmail)</li>
+                  <li>The system reports all collected notifications when the busy-mode is turned off (socials, emails, calls, visitors)</li>
+                  <li>Birthday functionality: listing the user's Facebook friends with birthdays on the day</li>
+                  <li>Agenda functionality: remebering to the user all commitments planned for the day  (Google Calendar)</li>
+                  <li>News functionality: responding with a summary of the day's top news headlines, sending them to the user over email if desire</li>
+                  <li>Users will be able to make the Smart Butler start tasks by using a list of key-words</li>
+                  <li>The system recognize the user in the room by asking him his name</li>
+                  <li>The system records every missed call or person visiting</li>
+                  <li>The system can be configured with different users’ profiles</li>
+                  <li>The system collects users usage data (ex: users’ choises on settings)</li>
+                  <li>The system analizes users’ agenda to gather information</li>
+                  <li>The system elaborates collected data to set the environment </li>
+                  <li>The system sets the proper enviroment according to the activity the user is performing</li>
                 </ul>
                 <br>
                 <p>Some functionalities will be provided using the <a href="http://jasperproject.github.io/" target="_blank"><font color="#0f0fdf"><u>Jasper</u></font></a> software.
@@ -73,6 +84,13 @@
             <h2><a name="nfr"><font color="#666">Non Functional Requirements</font></a></h2>
             <section id="colorback">
               <p>
+              <ul type="square">
+                <li>Without any internet connection the system’s functionality will be limited to those working with information acquired with the last update. It will notify the user of the absence of internet connection</li>
+                <li>Noises may condition the correct interpretation of vocal commands. The system will give the user a feedback of the vocal commands it receive repeating the words</li>
+                <li>There is the possibility to implement a version of the system able to manage a larger number of social network and mailboxes</li>
+                <li>The system sets the enviroment basing on data collected from past user’s choises but it doesn’t prevent him from making new ones</li>
+                <li>The system notifies the user by sending him a notification if the busy-mode is left enabled</li>
+              </ul>
               </p>
             </section>
             <up><a href="#up"><img src="images/up.png"></img></a></up>
