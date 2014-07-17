@@ -57,7 +57,7 @@
                   <li>The system performs the “speech to text” and handles interactions with microphone and speakers</li>
                   <li>The system accesses the BigOven’s server through its API to fetch recipes to read</li>
                   <li>The system plays music web server Spotify</li> 
-                  <li>The system starts countdowns and alerting the user when time is up</li>
+                  <li>The system starts countdowns and alerts the user when time is up</li>
                   <li>The system sets busy status on social networks</li>
                   <li>The system collects all the notifications from social networks (Facebook, Twitter) or mailboxes (Gmail)</li>
                   <li>The system reports all collected notifications when the busy-mode is turned off (socials, emails, calls, visitors)</li>
@@ -71,6 +71,9 @@
                   <li>The system analizes users' agenda to gather information</li>
                   <li>The system elaborates collected data to set the environment </li>
                   <li>The system sets the proper enviroment according to the activity the user is performing</li>
+                  <li>The system notifies the user by sending him a notification if the busy-mode is left enabled</li>
+                  <li>The system will give the user a feedback of the vocal commands received repeating the captured words</li>
+                  <li>The system sets the enviroment basing on data collected from past users' choises but it doesn’t prevent him from making new ones</li>
                 </ul>
                 <br>
                 <p>Some functionalities will be provided using the <a href="http://jasperproject.github.io/" target="_blank"><font color="#0f0fdf"><u>Jasper</u></font></a> software.
@@ -85,11 +88,12 @@
               <p>
               <ul type="square">
                 <li>Without any internet connection the system's functionality will be limited to those working with information acquired with the last update. It will notify the user of the absence of internet connection</li>
-                <li>Noises may condition the correct interpretation of vocal commands. The system will give the user a feedback of the vocal commands it receive repeating the words</li>
-                <li>There is the possibility to implement a version of the system able to manage a larger number of social network and mailboxes</li>
-                <li>The system sets the enviroment basing on data collected from past user’s choises but it doesn’t prevent him from making new ones</li>
-                <li>The system notifies the user by sending him a notification if the busy-mode is left enabled</li>
-                <li>The system records until a second of silence or times out after 12 seconds</li>
+                <li>The system is designed to handle one user but there is the possibility to implement a version of the system able to manage a larger number of users along with more social network and mailboxes</li>
+                <li>The system must have a module structure to allow future implementations</li>
+                <li>Noises may condition the correct interpretation of vocal commands.</li>
+                <li>The system must not lose acquired raw users' data</li>
+                <li>The system must be punctual with notifications (within one minute)</li>
+                <li>Users must speak within a second and finish speaking after 12 seconds</li>
                 
               </ul>
               </p>
