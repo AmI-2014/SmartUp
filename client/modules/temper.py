@@ -16,11 +16,11 @@ def handleResponse(text, mic, profile, temp):
         valore=mic.activeListen()
         valore=convertsi.convert(valore)
         mic.say("The temperature has been modified according to your request")
-        return float(valore)
+        return str(valore)
         
     if (app_utils.isPositive(text)):
         mic.say("Perfect!")
-        return temp
+        return str(temp)
         
     
    
