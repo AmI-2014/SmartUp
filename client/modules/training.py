@@ -44,12 +44,14 @@ def handle(text, mic, profile):
     values = []
     file=open(TEMP_FILENAME,"a+") 
     
-    StatusBusy.handle(text, mic, profile)
+    """StatusBusy.handle(text, mic, profile)"""
     values = elaboration()
     if int(values[0]) == -1:
         temp=temper.handle(text, mic, profile)
-        file.write(temp)
-        file.write(" ")
+        tempe=(str(temp)+" ")
+        file.write(tempe)
+
+        
         print temp
         file.flush()
         mic.say("Do you want me to play some music?")
@@ -57,10 +59,12 @@ def handle(text, mic, profile):
         resp = mic.activeListen()
         if (app_utils.isPositive(resp)):
             file.write("YES\n")
+            file.flush()
             conversation = Conversation("ALFRED", mic, profile)
             conversation.delegateInput("MUSIC")
         elif (app_utils.isNegative(resp)):
             file.write("NO\n")
+            file.flush()
     else :
         string = "the temperature has been set at %s degree according to your past requests." %values[0]
         mic.say(string)
@@ -73,7 +77,7 @@ def handle(text, mic, profile):
     mic.say("Do you want to set your status on-line?")
     c=mic.activeListen()
     if (app_utils.isPositive(c)):
-        StatusOnline.handle(text, mic, profile)
+        """StatusOnline.handle(text, mic, profile)"""
         mic.say("Done")
     if (app_utils.isNegative(c)):
         mic.say("Ok")
@@ -88,4 +92,3 @@ def handle(text, mic, profile):
 def isValid(text):
 
     return bool(re.search(r'\btraining|sport\b', text, re.IGNORECASE))
-
