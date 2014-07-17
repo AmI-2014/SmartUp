@@ -1,5 +1,5 @@
 <p>
--Access RPi connected to Bea's ethernet<br>
+-Access RPi connected to Bea's LAN<br>
 find the last IP address sent on amiproject.smartup@gmail.com and use it with Putty<br>
 username: pi<br>
 password: raspberry<br>
