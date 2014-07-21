@@ -31,7 +31,7 @@ def handle(text, mic, profile):
     status = dog_zwave.getStatus('TemperatureAndHumiditySensor_76')
     temp = float(status['status']['TemperatureState'][0]['value'][:-1])  
     print '%f degree' % temp
-    message="The temperature is %f degree, is it ok?" % temp
+    message="The temperature is %f degrees, is it ok?" % temp
     mic.say(message)
     prova = handleResponse(mic.activeListen(), mic, profile, temp)
     return prova
