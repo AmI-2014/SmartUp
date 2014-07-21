@@ -52,7 +52,7 @@ def compile(sentences, dictionary, languagemodel):
     words.extend(["SIXTEEN","SEVENTEEN","EIGTHTEEN","NINETEEN","TWENTY", "TWENTYONE", "TWENTYTWO","TWENTYTHREE","TWENTYFOUR","TWENTYFIVE","TWENTYSIX"])
     
     # for cooking module
-    words.extend(["LASAGNA", "SPAGHETTI"])
+    words.extend(["LASAGNA", "SPAGHETTI", "FRENCH", "FRIES"])
 
     # for alarm module
     words.extend(["ONE"])
