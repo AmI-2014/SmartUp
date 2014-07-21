@@ -55,7 +55,7 @@ def compile(sentences, dictionary, languagemodel):
     words.extend(["LASAGNA", "SPAGHETTI", "FRENCH", "FRIES"])
 
     # for alarm module
-    words.extend(["ONE"])
+    words.extend(["ONE", "FIVE", "SECONDS", "MINUTES"])
 
     
     # create the dictionary
