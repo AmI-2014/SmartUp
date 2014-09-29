@@ -2,7 +2,7 @@ import smtplib
 from email.MIMEText import MIMEText
 import urllib2
 import re
-import requests
+#import requests
 from pytz import timezone
 
 
